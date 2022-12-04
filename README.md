@@ -7,9 +7,9 @@ i explained the project in a medium article;
 it will provide solutions to the following issues ;
 ## Features
 - Detecting source ip address over the LB
-- IP restriction per user
+- Restrict a User to an IP Address
 - Virtual password for users
-- if there is a machine where the old password is forgotten, only that ip address is locked instead of the user.
+- if there is a machine where the old password has been forgotten, only this ip address is locked instead of the user.
 - send logs to logstash
 
 ## Structers
